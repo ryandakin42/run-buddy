@@ -78,6 +78,11 @@
     background-position: center;
     position: relative;
   }
+
+  .hero-secondary {
+    background-color: black;
+    color: red;
+  }
   /* Hero Style End */
   
   .hero-form {
